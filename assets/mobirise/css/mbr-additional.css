@@ -1849,3 +1849,56 @@ a {
 .cid-us4sMo4RdG .mbr-text {
   color: #000000;
 }
+.cid-usqeyzlqhq {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #edefeb;
+}
+.cid-usqeyzlqhq .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-usqeyzlqhq .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-usqeyzlqhq .card-wrapper {
+  border-radius: 4px;
+}
+@media (max-width: 767px) {
+  .cid-usqeyzlqhq .card-wrapper {
+    padding: 1.5rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-usqeyzlqhq .card-wrapper {
+    padding: 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-usqeyzlqhq .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-usqeyzlqhq .wrap {
+  background: url("../../../assets/images/mbr-1920x1080.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.cid-usqeyzlqhq .wrap .inner-wrap {
+  padding: 40px;
+}
+.cid-usqeyzlqhq .card-title {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-usqeyzlqhq .mbr-text,
+.cid-usqeyzlqhq .mbr-section-btn {
+  color: #ffffff;
+  text-align: left;
+}
